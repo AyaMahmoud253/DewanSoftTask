@@ -1,0 +1,21 @@
+﻿@model DewanSoftTask.Models.Receipt
+
+<h2>Create Receipt</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Item</label>
+        <select name="ItemId">
+            @foreach (var item in ViewBag.Items)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <div>
+        <label>Quantity</label>
+        <input type="number" name="Quantity" min="1" />
+    </div>
+    <button type="submit">Add Item</button>
+</form>
+
