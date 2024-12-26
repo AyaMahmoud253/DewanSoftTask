@@ -1,0 +1,56 @@
+﻿@model List<DewanSoftTask.Models.Receipt>
+
+@{
+    ViewData["Title"] = "Receipts";
+}
+
+<h2>Receipts</h2>
+
+<!-- Display any error or success message -->
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Total Amount</th>
+            <th>Paid Amount</th>
+            <th>Remaining Amount</th>
+            <th>Items Sold</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var receipt in Model)
+        {
+            <tr>
+                <td>@receipt.Date.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                <td>@receipt.TotalAmount</td>
+                <td>@receipt.PaidAmount</td>
+                <td>@receipt.RemainingAmount</td>
+                <td>
+                    <ul>
+                        @foreach (var receiptItem in receipt.ReceiptItems)
+                        {
+                            <li>
+                                @receiptItem.Item.Name - @receiptItem.Quantity
+                                <br />
+                                <span class="text-muted">Available Stock: @receiptItem.Item.Balance</span>
+                            </li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <a href="@Url.Action("Details", "Receipt", new { id = receipt.Id })" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Receipt")" class="btn btn-primary">Create New Receipt</a>

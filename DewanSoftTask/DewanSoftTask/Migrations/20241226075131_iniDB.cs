@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace DewanSoftTask.Migrations
 {
     /// <inheritdoc />
-    public partial class initialdb : Migration
+    public partial class iniDB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

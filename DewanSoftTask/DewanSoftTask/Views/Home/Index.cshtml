@@ -1,8 +1,28 @@
-﻿@{
+﻿@model IEnumerable<DewanSoftTask.Models.Item> 
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+</div>
+
+<h2>All Items</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">Price: $@item.Price</p>
+                    <p class="card-text">Available Stock: @item.Balance</p>
+                    <p class="card-text">Amount Sold: @item.AmountSold</p>
+                </div>
+            </div>
+        </div>
+    }
 </div>

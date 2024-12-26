@@ -1,27 +1,24 @@
-using System.Diagnostics;
 using DewanSoftTask.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace DewanSoftTask.Controllers
+public class HomeController : Controller
 {
-    public class HomeController : Controller
+    private readonly ReceiptSystemContext _context;
+
+    public HomeController(ReceiptSystemContext context)
     {
-        private readonly ILogger<HomeController> _logger;
+        _context = context;
+    }
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+    public async Task<IActionResult> Index()
+    {
+        // Fetch all items from the database
+        var items = await _context.Items.ToListAsync();
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
+        // Pass the list of items to the view
+        return View(items);
     }
 }

@@ -27,6 +27,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
+// Set the default route to Receipt/Create
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

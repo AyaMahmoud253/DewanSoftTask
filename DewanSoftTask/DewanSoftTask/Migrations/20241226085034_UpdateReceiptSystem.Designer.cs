@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DewanSoftTask.Migrations
 {
     [DbContext(typeof(ReceiptSystemContext))]
-    [Migration("20241225200959_initialdb")]
-    partial class initialdb
+    [Migration("20241226085034_UpdateReceiptSystem")]
+    partial class UpdateReceiptSystem
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -42,7 +42,49 @@ namespace DewanSoftTask.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Items");
+                    b.ToTable("Items", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            AmountSold = 0,
+                            Balance = 50,
+                            Name = "Laptop",
+                            Price = 1000m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            AmountSold = 0,
+                            Balance = 100,
+                            Name = "Smartphone",
+                            Price = 500m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            AmountSold = 0,
+                            Balance = 75,
+                            Name = "Tablet",
+                            Price = 300m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            AmountSold = 0,
+                            Balance = 200,
+                            Name = "Headphones",
+                            Price = 100m
+                        },
+                        new
+                        {
+                            Id = 5,
+                            AmountSold = 0,
+                            Balance = 150,
+                            Name = "Keyboard",
+                            Price = 50m
+                        });
                 });
 
             modelBuilder.Entity("DewanSoftTask.Models.Receipt", b =>
@@ -54,9 +96,18 @@ namespace DewanSoftTask.Migrations
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<decimal>("PaidAmount")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.Property<decimal>("RemainingAmount")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.Property<decimal>("TotalAmount")
+                        .HasColumnType("decimal(65,30)");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Receipts");
+                    b.ToTable("Receipts", (string)null);
                 });
 
             modelBuilder.Entity("DewanSoftTask.Models.ReceiptItem", b =>
@@ -71,7 +122,7 @@ namespace DewanSoftTask.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.Property<int>("ReceiptId")
+                    b.Property<int?>("ReceiptId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -80,7 +131,7 @@ namespace DewanSoftTask.Migrations
 
                     b.HasIndex("ReceiptId");
 
-                    b.ToTable("ReceiptItems");
+                    b.ToTable("ReceiptItems", (string)null);
                 });
 
             modelBuilder.Entity("DewanSoftTask.Models.ReceiptItem", b =>
@@ -91,15 +142,11 @@ namespace DewanSoftTask.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("DewanSoftTask.Models.Receipt", "Receipt")
+                    b.HasOne("DewanSoftTask.Models.Receipt", null)
                         .WithMany("ReceiptItems")
-                        .HasForeignKey("ReceiptId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ReceiptId");
 
                     b.Navigation("Item");
-
-                    b.Navigation("Receipt");
                 });
 
             modelBuilder.Entity("DewanSoftTask.Models.Receipt", b =>
