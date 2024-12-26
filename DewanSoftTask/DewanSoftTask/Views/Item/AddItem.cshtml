@@ -3,81 +3,111 @@
 @{
     ViewData["Title"] = "Add Item";
 }
-	<h2>Add Item</h2>
 
+<!DOCTYPE html>
+<html lang="en">
 
-<form method="post" class="add-item-form">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <!-- Custom Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <style>
+        /* Include the earlier provided CSS here */
+        * {
+            margin: 0;
+            padding: 0;
+        }
 
-	<div class="form-group">
-		
-        <label for="Name">Item Name</label>
-        <input type="text" name="Name" id="Name" class="form-control" required />
+        html {
+            height: 100%;
+            
+        }
+
+        body {
+            font-family: montserrat, arial, verdana;
+        }
+
+        #add-item-form {
+            width: 400px;
+            margin: 50px auto;
+            background: white;
+            border-radius: 3px;
+            box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+            padding: 20px 30px;
+            box-sizing: border-box;
+        }
+
+            #add-item-form .form-group {
+                margin-bottom: 15px;
+            }
+
+            #add-item-form label {
+                font-size: 14px;
+                color: #2C3E50;
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            #add-item-form input {
+                width: 100%;
+                padding: 15px;
+                border: 1px solid #ccc;
+                border-radius: 3px;
+                font-size: 13px;
+                color: #2C3E50;
+                box-sizing: border-box;
+            }
+
+                #add-item-form input:focus {
+                    border-color: #27AE60;
+                    outline: none;
+                    box-shadow: 0 0 5px rgba(39, 174, 96, 0.5);
+                }
+
+            #add-item-form button {
+                width: 100%;
+                background: #27AE60;
+                color: white;
+                border: none;
+                padding: 10px;
+                border-radius: 3px;
+                font-size: 14px;
+                font-weight: bold;
+                cursor: pointer;
+                margin-top: 10px;
+            }
+
+                #add-item-form button:hover {
+                    background: #1e8449;
+                }
+    </style>
+</head>
+
+<body>
+    <div id="add-item-form">
+        <h2 style="text-align: center; margin-bottom: 20px; color: #2C3E50;">Add Item</h2>
+        <form method="post">
+            <div class="form-group">
+                <label for="Name">Item Name</label>
+                <input type="text" name="Name" id="Name" placeholder="Enter item name" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Price">Price</label>
+                <input type="number" name="Price" id="Price" placeholder="Enter price" step="0.01" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Balance">Balance</label>
+                <input type="number" name="Balance" id="Balance" placeholder="Enter balance" required />
+            </div>
+
+            <button type="submit">Add Item</button>
+        </form>
     </div>
+</body>
 
-    <div class="form-group">
-        <label for="Price">Price</label>
-        <input type="number" name="Price" id="Price" class="form-control" step="0.01" required />
-    </div>
-
-    <div class="form-group">
-        <label for="Balance">Balance</label>
-        <input type="number" name="Balance" id="Balance" class="form-control" required />
-    </div>
-
-    <button type="submit" class="btn btn-primary">Add Item</button>
-</form>
-
-<style>
-    /* Form container styling */
-    .add-item-form {
-        max-width: 500px;
-        margin: 0 auto;
-        padding: 20px;
-        border: 1px solid #ccc;
-        border-radius: 8px;
-        background-color: #f9f9f9;
-    }
-
-        .add-item-form h2 {
-            text-align: center;
-            margin-bottom: 20px;
-            font-size: 24px;
-        }
-
-    /* Form group styling */
-    .form-group {
-        margin-bottom: 15px;
-    }
-
-        .form-group label {
-            font-weight: bold;
-            display: block;
-            margin-bottom: 5px;
-        }
-
-        .form-group input {
-            width: 100%;
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-
-    /* Button styling */
-    .btn-primary {
-        width: 100%;
-        padding: 10px;
-        background-color: #007bff;
-        border-color: #007bff;
-        border-radius: 4px;
-        font-size: 16px;
-        color: white;
-    }
-
-        .btn-primary:hover {
-            background-color: #0056b3;
-            border-color: #0056b3;
-        }
-
-
-</style>
+</html>

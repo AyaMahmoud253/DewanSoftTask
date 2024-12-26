@@ -4,133 +4,222 @@
     ViewData["Title"] = "Create Receipt";
 }
 
-<h2>Create Receipt</h2>
+<!DOCTYPE html>
+<html lang="en">
 
-<form method="post">
-    <div>
-        <label for="itemIds">Items:</label>
-        <select name="itemIds" id="itemIds" multiple>
-            @foreach (var item in Model)
-            {
-                <option value="@item.Id">@item.Name - @item.Price.ToString("0")</option>
-            }
-        </select>
-    </div>
-
-    <div>
-        <label for="quantities">Quantities:</label>
-        <input type="text" name="quantities" id="quantities" placeholder="Enter quantities"  required />
-    </div>
-
-    <div>
-        <label for="paidAmount">Paid Amount:</label>
-        <input type="number" name="paidAmount" id="paidAmount" placeholder="Enter amount paid" required />
-    </div>
-
-    <button type="submit">Create Receipt</button>
-</form>
-
-@if (TempData["Error"] != null)
-{
-    <div style="color: red;">
-        <p>@TempData["Error"]</p>
-    </div>
-}
-
-@if (ViewData["UpdatedItems"] != null)
-{
-    <div>
-        <h3>Updated Item Stock:</h3>
-        <ul>
-            @foreach (var item in ViewData["UpdatedItems"] as List<DewanSoftTask.Models.Item>)
-            {
-                <li>@item.Name - Available Stock: @item.Balance</li>
-            }
-        </ul>
-    </div>
-}
-
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f4;
-        margin: 0;
-        padding: 0;
-    }
-
-    .form-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh; /* Full viewport height */
-    }
-
-    .container {
-        background-color: #fff;
-        padding: 30px;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        border-radius: 10px;
-        width: 100%;
-        max-width: 600px; /* Limit form width */
-    }
-
-    h2 {
-        text-align: center;
-        margin-bottom: 20px;
-        color: #333;
-    }
-
-    form {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-    }
-
-    label {
-        font-size: 14px;
-        font-weight: bold;
-        color: #333;
-    }
-
-    select,
-    input[type="text"],
-    input[type="number"] {
-        padding: 10px;
-        font-size: 14px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        width: 100%;
-        margin-top: 5px;
-    }
-
-    button {
-        padding: 10px 15px;
-        background-color: #007bff;
-        color: #fff;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        font-size: 16px;
-    }
-
-        button:hover {
-            background-color: #0056b3;
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <!-- Custom Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <style>
+        /* General styles (reuse the earlier provided CSS) */
+        * {
+            margin: 0;
+            padding: 0;
         }
 
-    .error-message {
-        color: red;
-        text-align: center;
-        font-size: 16px;
-        margin-bottom: 20px;
-    }
-
-    .result {
-        margin-top: 20px;
-        font-size: 16px;
-        color: #333;
-    }
-
-        .result p {
-            margin: 5px 0;
+        html {
+            height: 100%;
         }
-</style>
+
+        body {
+            font-family: montserrat, arial, verdana;
+        }
+
+        #create-receipt-form {
+            width: 400px;
+            margin: 50px auto;
+            background: white;
+            border-radius: 3px;
+            box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+            padding: 20px 30px;
+            box-sizing: border-box;
+        }
+
+            #create-receipt-form h2 {
+                text-align: center;
+                margin-bottom: 20px;
+                color: #2C3E50;
+            }
+
+            #create-receipt-form .form-group {
+                margin-bottom: 15px;
+            }
+
+            #create-receipt-form label {
+                font-size: 14px;
+                color: #2C3E50;
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            #create-receipt-form input,
+            #create-receipt-form select {
+                width: 100%;
+                padding: 15px;
+                border: 1px solid #ccc;
+                border-radius: 3px;
+                font-size: 13px;
+                color: #2C3E50;
+                box-sizing: border-box;
+            }
+
+                #create-receipt-form input:focus,
+                #create-receipt-form select:focus {
+                    border-color: #27AE60;
+                    outline: none;
+                    box-shadow: 0 0 5px rgba(39, 174, 96, 0.5);
+                }
+
+            #create-receipt-form button {
+                width: 100%;
+                background: #27AE60;
+                color: white;
+                border: none;
+                padding: 10px;
+                border-radius: 3px;
+                font-size: 14px;
+                font-weight: bold;
+                cursor: pointer;
+                margin-top: 10px;
+            }
+
+                #create-receipt-form button:hover {
+                    background: #1e8449;
+                }
+
+        .error-message,
+        .updated-items {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 3px;
+            font-size: 13px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .error-message {
+            background: #e74c3c;
+            color: white;
+        }
+
+        .updated-items {
+            background: #ecf0f1;
+            color: #2C3E50;
+        }
+
+            .updated-items h3 {
+                font-size: 16px;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+
+            .updated-items ul {
+                list-style-type: none;
+                padding-left: 10px;
+            }
+
+                .updated-items ul li {
+                    margin-bottom: 5px;
+                }
+
+    </style>
+</head>
+
+<body>
+    <div id="create-receipt-form">
+        <h2>Create Receipt</h2>
+        <form method="post">
+            <div class="form-group">
+                <label for="itemIds">Items:</label>
+                <select name="itemIds" id="itemIds" multiple>
+                    @foreach (var item in Model)
+                    {
+                        <option value="@item.Id" data-price="@item.Price">@item.Name - @item.Price.ToString("F2")</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="quantities">Quantities:</label>
+                <input type="text" name="quantities" id="quantities" placeholder="Enter quantities" required />
+            </div>
+
+            <div class="form-group">
+                <label for="paidAmount">Paid Amount:</label>
+                <input type="number" name="paidAmount" id="paidAmount" placeholder="Enter amount paid" required />
+            </div>
+
+            <div class="form-group">
+                <label for="remainingAmount">Remaining Amount:</label>
+                <span id="remainingAmount">0.00</span>
+            </div>
+
+            <button type="submit">Create Receipt</button>
+        </form>
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="error-message">
+                <p>@TempData["Error"]</p>
+            </div>
+        }
+
+        @if (ViewData["UpdatedItems"] != null)
+        {
+            <div class="updated-items">
+                <h3>Updated Item Stock:</h3>
+                <ul>
+                    @foreach (var item in ViewData["UpdatedItems"] as List<DewanSoftTask.Models.Item>)
+                    {
+                        <li>@item.Name - Available Stock: @item.Balance</li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+
+    <script>
+        // Initialize variables
+        var totalAmount = 0;
+        var paidAmountInput = document.getElementById("paidAmount");
+        var remainingAmountElement = document.getElementById("remainingAmount");
+        var itemSelect = document.getElementById("itemIds");
+        var quantityInput = document.getElementById("quantities");
+
+        // Function to update total amount based on selected items and quantities
+        function updateTotalAmount() {
+            totalAmount = 0;
+            var selectedItems = itemSelect.selectedOptions;
+            var quantities = quantityInput.value.split(',');
+
+            // Loop through the selected items and calculate total amount
+            for (var i = 0; i < selectedItems.length; i++) {
+                var itemPrice = parseFloat(selectedItems[i].getAttribute('data-price'));
+                var quantity = parseInt(quantities[i].trim()) || 0;
+                totalAmount += itemPrice * quantity;
+            }
+
+            updateRemainingAmount();
+        }
+
+        // Function to update remaining amount dynamically
+        function updateRemainingAmount() {
+            var paidAmount = parseFloat(paidAmountInput.value) || 0;
+            var remainingAmount = totalAmount - paidAmount;
+            remainingAmountElement.textContent = remainingAmount.toFixed(2);
+        }
+
+        // Event listeners for user input
+        itemSelect.addEventListener("change", updateTotalAmount);
+        quantityInput.addEventListener("input", updateTotalAmount);
+        paidAmountInput.addEventListener("input", updateRemainingAmount);
+
+        // Initialize the total amount calculation on page load
+        updateTotalAmount();
+    </script>
+</body>
+
+</html>

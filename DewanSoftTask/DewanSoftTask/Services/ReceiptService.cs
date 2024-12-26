@@ -28,7 +28,6 @@ namespace DewanSoftTask.Services
 
             return receipt;
         }
-
         public async Task<Receipt> CreateReceiptAsync(List<int> itemIds, List<int> quantities, decimal paidAmount)
         {
             if (itemIds == null || quantities == null || itemIds.Count == 0 || quantities.Count == 0)
@@ -72,11 +71,18 @@ namespace DewanSoftTask.Services
             receipt.TotalAmount = totalAmount;
             receipt.RemainingAmount = totalAmount - paidAmount;
 
+            // Validate if PaidAmount is greater than TotalAmount
+            if (paidAmount > totalAmount)
+            {
+                throw new ArgumentException("Paid amount cannot be greater than the total amount.");
+            }
+
             _context.Receipts.Add(receipt);
             await _context.SaveChangesAsync();
 
             return receipt;
         }
+
         public async Task<List<Item>> GetAllItemsAsync()
         {
             return await _context.Items.ToListAsync();  // Fetch all available items from the database

@@ -1,15 +1,14 @@
-﻿@model IEnumerable<DewanSoftTask.Models.Item> 
+﻿@model IEnumerable<DewanSoftTask.Models.Item>
 
 @{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome To Our System</h1>
+	<h1 class="display-4">Welcome To Our System</h1>
+    <h1 class="display-4">All Items</h1>
 
 </div>
-
-<h2>All Items</h2>
 
 <div class="row">
     @foreach (var item in Model)
@@ -18,11 +17,51 @@
             <div class="card mb-4">
                 <div class="card-body">
                     <h5 class="card-title">@item.Name</h5>
-                    <p class="card-text">Price: $@item.Price</p>
+                    <p class="card-text price">Price: $@item.Price.ToString("F2")</p>
                     <p class="card-text">Available Stock: @item.Balance</p>
                     <p class="card-text">Amount Sold: @item.AmountSold</p>
+                    
                 </div>
             </div>
         </div>
     }
 </div>
+
+<style>
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+    }
+
+    .price {
+        color: grey;
+        font-size: 22px;
+    }
+
+    .card button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+        .card button:hover {
+            opacity: 0.7;
+        }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .col-md-4 {
+        padding: 15px;
+    }
+</style>

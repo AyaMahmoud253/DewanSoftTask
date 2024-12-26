@@ -30,9 +30,9 @@
         {
             <tr>
                 <td>@receipt.Date.ToString("yyyy-MM-dd HH:mm:ss")</td>
-                <td>@receipt.TotalAmount</td>
-                <td>@receipt.PaidAmount</td>
-                <td>@receipt.RemainingAmount</td>
+                <td>@receipt.TotalAmount.ToString("F2")</td>
+                <td>@receipt.PaidAmount.ToString("F2")</td>
+                <td>@receipt.RemainingAmount.ToString("F2")</td>
                 <td>
                     <ul>
                         @foreach (var receiptItem in receipt.ReceiptItems)
@@ -54,3 +54,4 @@
 </table>
 
 <a href="@Url.Action("Create", "Receipt")" class="btn btn-primary">Create New Receipt</a>
+
