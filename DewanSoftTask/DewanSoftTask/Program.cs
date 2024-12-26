@@ -1,3 +1,4 @@
+using DewanSoftTask.Services;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -9,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ReceiptSystemContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
         new MySqlServerVersion(new Version(8, 0, 33))));
+
+builder.Services.AddScoped<IReceiptService, ReceiptService>();
+builder.Services.AddScoped<IItemService, ItemService>();
 
 // Add MVC services for controllers and views
 builder.Services.AddControllersWithViews();

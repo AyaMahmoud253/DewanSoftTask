@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,44 +11,68 @@
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\item\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\item\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DewanSoftTask\\Migrations\\20241226080048_editDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226075131_inidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,6 +85,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\dewansofttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\dewansofttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226091053_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226091053_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226085034_updatereceiptsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226085034_updatereceiptsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226084000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226084000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226080048_editdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226080048_editdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,154 +110,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:29:45.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
-              "RelativeToolTip": "DewanSoftTask\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:21:57.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddItem.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\AddItem.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\AddItem.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\AddItem.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\AddItem.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T09:50:25.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Receipt.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Receipt.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
-              "RelativeToolTip": "DewanSoftTask\\Models\\Receipt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:56:30.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:05:12.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T09:35:49.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:59:49.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
-              "RelativeToolTip": "DewanSoftTask\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:10:16.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReceiptController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "RelativeToolTip": "DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAqwIEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:29:28.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DewanSoftTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T19:25:19.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T19:21:22.106Z",
+              "DocumentIndex": 10,
+              "Title": "ReceiptController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "RelativeToolTip": "DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:29:28.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ReceiptItem.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptItem.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Models\\ReceiptItem.cs",
@@ -254,20 +153,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241226091053_UpdateItems.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
-              "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
+              "RelativeToolTip": "DewanSoftTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T09:10:53.418Z",
+              "WhenOpened": "2024-12-25T19:21:57.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:21:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:29:45.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:50:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:05:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "DewanSoftTask\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:52:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\IItemService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
+              "RelativeToolTip": "DewanSoftTask\\Services\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:45:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
+              "RelativeToolTip": "DewanSoftTask\\Services\\ItemService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:46:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ReceiptSystemContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptSystemContext.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Models\\ReceiptSystemContext.cs",
@@ -280,7 +270,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
+              "Title": "IReceiptService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\IReceiptService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
+              "RelativeToolTip": "DewanSoftTask\\Services\\IReceiptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:35:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\ReceiptService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
+              "RelativeToolTip": "DewanSoftTask\\Services\\ReceiptService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:36:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:35:49.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:59:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
+              "RelativeToolTip": "DewanSoftTask\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:10:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Receipt.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
+              "RelativeToolTip": "DewanSoftTask\\Models\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:56:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241226091053_UpdateItems.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:10:53.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "20241226085034_UpdateReceiptSystem.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
@@ -288,12 +367,11 @@
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:50:34.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T08:50:34.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "20241226084000_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
@@ -301,8 +379,7 @@
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:40:00.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T08:40:00.599Z"
             },
             {
               "$type": "Document",
@@ -314,12 +391,11 @@
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:51:33.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T07:51:33.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "20241226080048_editDB.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
@@ -327,21 +403,7 @@
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:00:48.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ReceiptModel.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptModel.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\ReceiptModel.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptModel.cs",
-              "RelativeToolTip": "DewanSoftTask\\Models\\ReceiptModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T08:03:03.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T08:00:48.536Z"
             },
             {
               "$type": "Document",
@@ -353,8 +415,7 @@
               "RelativeToolTip": "DewanSoftTask\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-25T19:19:30.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:19:30.013Z"
             },
             {
               "$type": "Document",
