@@ -1,105 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\services\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\item\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\views\\item\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\item\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226075131_inidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\receipt\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\controllers\\receiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\services\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\models\\receiptitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\migrations\\20241226075131_inidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226075131_inidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\dewansofttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\dewansofttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\dewansofttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226091053_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\migrations\\20241226091053_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226091053_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226085034_updatereceiptsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\migrations\\20241226085034_updatereceiptsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226085034_updatereceiptsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226084000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\migrations\\20241226084000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226084000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\source\\repos\\dewansofttask\\dewansofttask\\migrations\\20241226080048_editdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|c:\\users\\hp\\desktop\\aya\\ayaa\\ad01_fullstackdevelopment_assessment_ayamahmoud\\dewansofttask\\dewansofttask\\migrations\\20241226080048_editdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{571C651D-9875-4417-BDB2-95B921D83CDC}|DewanSoftTask\\DewanSoftTask.csproj|solutionrelative:dewansofttask\\migrations\\20241226080048_editdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,145 +106,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:59:49.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAiwG0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T09:35:49.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DewanSoftTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:25:19.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "DewanSoftTask\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwB4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T11:52:41.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ReceiptController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "RelativeToolTip": "DewanSoftTask\\Controllers\\ReceiptController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "DewanSoftTask\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:29:28.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T11:52:41.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ReceiptService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Services\\ReceiptService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\ReceiptService.cs",
               "RelativeToolTip": "DewanSoftTask\\Services\\ReceiptService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T12:36:19.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Create.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAiwHYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:05:12.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T08:29:45.282Z",
-              "EditorCaption": ""
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
+              "RelativeToolTip": "DewanSoftTask\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:10:16.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddItem.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Receipt.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
+              "RelativeToolTip": "DewanSoftTask\\Models\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:56:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
+              "RelativeToolTip": "DewanSoftTask\\Services\\ItemService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:46:09.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T09:50:25.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T08:59:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Item\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:50:25.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Title": "ReceiptController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "RelativeToolTip": "DewanSoftTask\\Controllers\\ReceiptController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:29:28.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DewanSoftTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:25:19.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Receipt\\Details.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwG0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-25T19:21:22.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T09:35:49.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:29:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DewanSoftTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:21:22.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Program.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Program.cs",
               "RelativeToolTip": "DewanSoftTask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ReceiptItem.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptItem.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Models\\ReceiptItem.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptItem.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptItem.cs",
               "RelativeToolTip": "DewanSoftTask\\Models\\ReceiptItem.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IItemService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Services\\IItemService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\IItemService.cs",
               "RelativeToolTip": "DewanSoftTask\\Services\\IItemService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,23 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Services\\ItemService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\ItemService.cs",
-              "RelativeToolTip": "DewanSoftTask\\Services\\ItemService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:46:09.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ReceiptSystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptSystemContext.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Models\\ReceiptSystemContext.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptSystemContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Models\\ReceiptSystemContext.cs",
               "RelativeToolTip": "DewanSoftTask\\Models\\ReceiptSystemContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IReceiptService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Services\\IReceiptService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Services\\IReceiptService.cs",
               "RelativeToolTip": "DewanSoftTask\\Services\\IReceiptService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,35 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Item.cs",
-              "RelativeToolTip": "DewanSoftTask\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:10:16.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Receipt.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
-              "RelativeDocumentMoniker": "DewanSoftTask\\Models\\Receipt.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Models\\Receipt.cs",
-              "RelativeToolTip": "DewanSoftTask\\Models\\Receipt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T07:56:30.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "20241226091053_UpdateItems.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226091053_UpdateItems.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "20241226085034_UpdateReceiptSystem.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226085034_UpdateReceiptSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20241226084000_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226084000_InitialCreate.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "20241226075131_iniDB.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226075131_iniDB.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "20241226080048_editDB.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
               "RelativeDocumentMoniker": "DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
               "RelativeToolTip": "DewanSoftTask\\Migrations\\20241226080048_editDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\appsettings.json",
               "RelativeDocumentMoniker": "DewanSoftTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\appsettings.json",
               "RelativeToolTip": "DewanSoftTask\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -412,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "DewanSoftTask.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
               "RelativeDocumentMoniker": "DewanSoftTask\\DewanSoftTask.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
               "RelativeToolTip": "DewanSoftTask\\DewanSoftTask.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

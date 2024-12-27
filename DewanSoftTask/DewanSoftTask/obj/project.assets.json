@@ -2305,11 +2305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
       "projectName": "DewanSoftTask",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\DewanSoftTask.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\DewanSoftTask\\DewanSoftTask\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Aya\\ayaa\\AD01_FullStackDevelopment_Assessment_AyaMahmoud\\DewanSoftTask\\DewanSoftTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

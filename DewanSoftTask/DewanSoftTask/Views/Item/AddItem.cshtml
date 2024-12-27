@@ -14,7 +14,6 @@
     <!-- Custom Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <style>
-        /* Include the earlier provided CSS here */
         * {
             margin: 0;
             padding: 0;
@@ -22,7 +21,6 @@
 
         html {
             height: 100%;
-            
         }
 
         body {
@@ -83,26 +81,50 @@
                 #add-item-form button:hover {
                     background: #1e8449;
                 }
+
+        .error {
+            color: red;
+            font-size: 12px;
+            margin-top: 5px;
+        }
     </style>
 </head>
 
 <body>
     <div id="add-item-form">
         <h2 style="text-align: center; margin-bottom: 20px; color: #2C3E50;">Add Item</h2>
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="error">@TempData["Error"]</div>
+        }
+
         <form method="post">
             <div class="form-group">
                 <label for="Name">Item Name</label>
-                <input type="text" name="Name" id="Name" placeholder="Enter item name" required />
+                <input type="text" name="Name" id="Name" placeholder="Enter item name" value="@Model?.Name" required />
+                @if (ViewData["NameError"] != null)
+                {
+                    <div class="error">@ViewData["NameError"]</div>
+                }
             </div>
 
             <div class="form-group">
                 <label for="Price">Price</label>
-                <input type="number" name="Price" id="Price" placeholder="Enter price" step="0.01" required />
+                <input type="number" name="Price" id="Price" placeholder="Enter price" step="0.01" value="@Model?.Price" required />
+                @if (ViewData["PriceError"] != null)
+                {
+                    <div class="error">@ViewData["PriceError"]</div>
+                }
             </div>
 
             <div class="form-group">
                 <label for="Balance">Balance</label>
-                <input type="number" name="Balance" id="Balance" placeholder="Enter balance" required />
+                <input type="number" name="Balance" id="Balance" placeholder="Enter balance" value="@Model?.Balance" required />
+                @if (ViewData["BalanceError"] != null)
+                {
+                    <div class="error">@ViewData["BalanceError"]</div>
+                }
             </div>
 
             <button type="submit">Add Item</button>

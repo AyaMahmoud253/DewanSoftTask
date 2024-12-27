@@ -30,6 +30,12 @@ namespace DewanSoftTask.Services
         }
         public async Task<Receipt> CreateReceiptAsync(List<int> itemIds, List<int> quantities, decimal paidAmount)
         {
+            if (paidAmount <= 0)
+                throw new ArgumentException("Paid amount must be greater than zero.");
+
+            if (quantities.Any(q => q <= 0))
+                throw new ArgumentException("All quantities must be greater than zero.");
+
             if (itemIds == null || quantities == null || itemIds.Count == 0 || quantities.Count == 0)
                 throw new ArgumentException("Please select at least one item and fill all fields to proceed.");
 
